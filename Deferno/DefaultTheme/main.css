@@ -1,0 +1,8 @@
+body { color: #000; background-color: #fff; font-family: "Lucida Grande"; }
+p { margin: 0 0 5px 0; width: 100%; }
+p.highlighted { background-color: #fcf06b; }
+.time { color: #80552F; }
+.nicksandstuff { color: #4BA4CB; }
+.mynick { color: #2F6780; }
+.info { color: #aaaaaa; }
+#pastcontent { opacity: .75; }
